@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Developer and Designer
 ### Styding Software Enginering
 
-![image](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/my pic.jpg)
+![image](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/my%20pic.jpg)
 
 
 - 😋 Proud to be Mahanama. ❤💛 
