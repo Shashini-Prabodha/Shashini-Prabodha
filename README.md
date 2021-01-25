@@ -36,4 +36,6 @@ Here are some ideas to get you started:
 
 [![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/stack_overflow.png)](https://stackoverflow.com/users/12910819/shashini-prabodha?tab=profile)
 
-[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/twitter.png)](https://www.fiverr.com/sp1999?up_rollout=true)
+[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/twitter.png)](https://twitter.com/ShashiniPrabod2)
+
+[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/fiverr.png)](https://www.fiverr.com/sp1999?public_mode=true)
