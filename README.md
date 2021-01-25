@@ -30,11 +30,7 @@ Here are some ideas to get you started:
 
 𝐅𝐨𝐥𝐥𝐨𝐰 𝐌𝐞 𝐎𝐧 -: 
 
-[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/linkedin.png)](https://www.linkedin.com/in/shashini-p-6034471bb/)
-
-[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/fb.png)](https://www.facebook.com/shashiniprabodha.abeygunasekara.7/)
-
-[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/stack_overflow.png)](https://stackoverflow.com/users/12910819/shashini-prabodha?tab=profile)
+[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/linkedin.png)](https://www.linkedin.com/in/shashini-p-6034471bb/)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/fb.png)](https://www.facebook.com/shashiniprabodha.abeygunasekara.7/)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/stack_overflow.png)](https://stackoverflow.com/users/12910819/shashini-prabodha?tab=profile)
 
 [![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/twitter.png)](https://twitter.com/ShashiniPrabod2)
 
