@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I am Shashini Prabodha
+### Hello, folks <img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha>/master/hi.gif" width="30px">
 ### Developer and Designer
 ### Studying Software Enginering
 
