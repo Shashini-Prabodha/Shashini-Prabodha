@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # <h1 align="center">ӇҽƖƖօ Ƒɾíҽղɗ...
-# <img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px" align="center">
+# <img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px" align="center" position="absolute">
 ### I am 𝑺̲̅𝒉̲̅𝒂̲̅𝒔̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅ 𝑷̲̅𝒓̲̅𝒂̲̅𝒃̲̅𝒐̲̅𝒅̲̅𝒉̲̅𝒂̲̅
 #### Developer and Designer
 #### Studying Software Enginering
