@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I am Shashini Prabodha
-### Hello, folks <img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="30px">
+### Hello, Friends <img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px">
+### I am Shashini Prabodha
 ### Developer and Designer
 ### Studying Software Enginering
 
