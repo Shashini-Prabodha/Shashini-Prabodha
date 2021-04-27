@@ -21,6 +21,6 @@
 
 [![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/linkedin.png)](https://www.linkedin.com/in/shashini-p-6034471bb/)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/fb.png)](https://www.facebook.com/shashiniprabodha.abeygunasekara.7/)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/stack_overflow.png)](https://stackoverflow.com/users/12910819/shashini-prabodha?tab=profile)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/twitter.png)](https://twitter.com/ShashiniPrabod2)[![Shashini](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/fiverr.png)](https://www.fiverr.com/sp1999?public_mode=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashini-Prabodha&langs_count=8&theme=radical)](https://github.com/Shashini-Prabodha/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashini-Prabodha&langs_count=8)](https://github.com/Shashini-Prabodha/github-readme-stats)
 
 ![Shashini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashini-Prabodha&show_icons=true&theme=radical)
