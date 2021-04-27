@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# <h1 align="center"><b>ӇҽƖƖօ Ƒɾíҽղɗ...</b>
+# <h1 align="center"><b>〰 ✨ Hello Friend  ✨〰</b>
 # <p align="center"><img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px"></p>
 ### I am 𝑺̲̅𝒉̲̅𝒂̲̅𝒔̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅ 𝑷̲̅𝒓̲̅𝒂̲̅𝒃̲̅𝒐̲̅𝒅̲̅𝒉̲̅𝒂̲̅
 #### Developer and Designer
