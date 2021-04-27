@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## <h1 align="center">〰 ✨ 𝓗𝓔𝓛𝓛𝓞 𝓕𝓡𝓘𝓔𝓝𝓓 ✨〰</b>
-##	<span class="anim-fade-in">
-  <%= octicon("mark-github", :height => 32, :class => "v-align-middle mr-2") %>
-  
-  Hello from GitHub!</span>
 ## <p align="center"><img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px"></p>
-### <h2 align="center"><span style="color: red">ί ⓐ𝐌 𝑺̲̅𝒉̲̅𝒂̲̅𝒔̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅ 𝑷̲̅𝒓̲̅𝒂̲̅𝒃̲̅𝒐̲̅𝒅̲̅𝒉̲̅𝒂̲̅
+### <h2 align="center">ί ⓐ𝐌 𝑺̲̅𝒉̲̅𝒂̲̅𝒔̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅ 𝑷̲̅𝒓̲̅𝒂̲̅𝒃̲̅𝒐̲̅𝒅̲̅𝒉̲̅𝒂̲̅
 #### <h3 align="center">𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒶𝓃𝒹 𝒟𝑒𝓈𝒾𝑔𝓃𝑒𝓇
 #### <h3 align="center">𝒮𝓉𝓊𝒹𝓎𝒾𝓃𝑔 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝓇𝒾𝓃𝑔
 ### <h3 align="center">👉 🅸 🅱🆄🅸🅻🆃 🅼🅴 👩‍💼
