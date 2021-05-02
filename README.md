@@ -7,6 +7,8 @@
 #### <h3 align="center">𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 𝒶𝓃𝒹 𝒟𝑒𝓈𝒾𝑔𝓃𝑒𝓇
 #### <h3 align="center">𝒮𝓉𝓊𝒹𝓎𝒾𝓃𝑔 𝒮𝑜𝒻𝓉𝓌𝒶𝓇𝑒 𝐸𝓃𝑔𝒾𝓃𝑒𝓇𝒾𝓃𝑔
 #### <h3 align="center"> 👉 𝒾 𝐁ᵘⓘℓ𝒹 Ⓜ𝕖 👩‍💼  
+####<h3 align="center">![](https://komarev.com/ghpvc/?username=your-Shashini-Prabodha&color=blueviolet)
+
 
 ![image](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/my%20pic.jpg)
 
