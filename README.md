@@ -1,6 +1,3 @@
-"# Shashini-Prabodha" 
-
-
 ## <h1 align="center">〰 ✨ 𝓗𝓔𝓛𝓛𝓞 𝓕𝓡𝓘𝓔𝓝𝓓 ✨〰</b>
 ## <p align="center"><img src="https://raw.githubusercontent.com/Shashini-Prabodha/Shashini-Prabodha/master/asserts/hi.gif" width="100px"></p>
 ### <h2 align="center">ί ⓐ𝐌 𝑺̲̅𝒉̲̅𝒂̲̅𝒔̲̅𝒉̲̅𝒊̲̅𝒏̲̅𝒊̲̅ 𝑷̲̅𝒓̲̅𝒂̲̅𝒃̲̅𝒐̲̅𝒅̲̅𝒉̲̅𝒂̲̅
