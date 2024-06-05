@@ -7,7 +7,7 @@
 ##### <h3 align="center" style="top:0">![](https://komarev.com/ghpvc/?username=your-Shashini-Prabodha&color=blueviolet)
 
 
-![image](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/my%20pic.jpg)
+/*![image](https://github.com/Shashini-Prabodha/Shashini-Prabodha/blob/master/asserts/my%20pic.jpg)*/
 
 
 - 😋 Proud to be Mahanama. ❤💛 
